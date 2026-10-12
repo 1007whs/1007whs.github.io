@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://1007whs.github.io/sitemap.xml
